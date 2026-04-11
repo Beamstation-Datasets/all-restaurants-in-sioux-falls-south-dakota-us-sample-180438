@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Sioux Falls, South Dakota with a population of over 192k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Sioux Falls, South Dakota, US",
+  "export_job_id": "db20e1b2-ae77-4e11-a54d-344d4214dbff",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 180438,
+  "location_name": "Sioux Falls",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-sioux-falls-south-dakota-us-sample-180438",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/180438/beamstation_180438_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 55,
+  "sample_sha256": "621026efaafa1708c67dbf7097096e631a5e7699fdfb50cbb951e4c44ad50d93",
+  "sample_size_bytes": 204413,
+  "total_records": 559,
+  "updated_at": "2026-04-07T11:49:07.352531+00:00"
+}
