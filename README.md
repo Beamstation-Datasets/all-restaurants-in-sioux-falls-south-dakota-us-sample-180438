@@ -9,9 +9,9 @@
 | Dataset ID | `180438` |
 | Location | Sioux Falls |
 | Category | Restaurants |
-| Full dataset size | 559 records |
-| Free sample size | 55 records (9.84%) |
-| Last export | 2026-04-07T11:49:07.352531+00:00 |
+| Full dataset size | 555 records |
+| Free sample size | 55 records (9.91%) |
+| Last export | 2026-04-14T11:41:49.310519+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sioux-falls-south-dakota-us-sample-180438/releases/download/sample-latest/beamstation_180438_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
