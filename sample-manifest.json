@@ -1,12 +1,12 @@
 {
-  "export_job_id": "db20e1b2-ae77-4e11-a54d-344d4214dbff",
+  "export_job_id": "a7c31e32-acfa-4f2e-992a-55bb8516b64b",
   "id_short": 180438,
-  "published_at": "2026-04-11T19:16:47Z",
+  "published_at": "2026-04-17T19:05:37Z",
   "repo_name": "all-restaurants-in-sioux-falls-south-dakota-us-sample-180438",
   "sample_asset_name": "beamstation_180438_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/180438/beamstation_180438_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_records": 55,
-  "sample_sha256": "621026efaafa1708c67dbf7097096e631a5e7699fdfb50cbb951e4c44ad50d93",
-  "sample_size_bytes": 204413,
-  "total_records": 559
+  "sample_sha256": "5974a4df2bac64caaf443aa3c54db4338b50e422f5a8be87830795bac407f902",
+  "sample_size_bytes": 207438,
+  "total_records": 555
 }
