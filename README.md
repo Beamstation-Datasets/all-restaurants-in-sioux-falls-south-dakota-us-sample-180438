@@ -1,6 +1,6 @@
 # All Restaurants in Sioux Falls, South Dakota, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `180438` |
 | Location | Sioux Falls |
 | Category | Restaurants |
-| Full dataset size | 154 records |
-| Free sample size | 15 records (9.74%) |
-| Last export | 2026-04-21T12:09:47.812167+00:00 |
+| Full dataset size | 534 records |
+| Free sample size | 53 records (9.93%) |
+| Last export | 2026-04-28T13:01:24.168834+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sioux-falls-south-dakota-us-sample-180438/releases/download/sample-latest/beamstation_180438_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
